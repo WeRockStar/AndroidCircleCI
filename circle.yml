@@ -17,3 +17,4 @@ test:
     override:
         - (./gradlew test):
             timeout: 420
+        - cp -r app/build/outputs $CIRCLE_ARTIFACTS
