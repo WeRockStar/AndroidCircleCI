@@ -1,5 +1,7 @@
 ### Continuous Integration with CircleCI
 
+[![CircleCI](https://circleci.com/gh/WeRockStar/AndroidCircleCI.svg?style=svg)](https://circleci.com/gh/WeRockStar/AndroidCircleCI)
+
 ###### - Circle CI script (circle.yml)
 ```yaml
 general:
