@@ -16,5 +16,5 @@ dependencies:
 test:
     override:
         - (./gradlew test):
-            timeout: 420
+            timeout: 520
         - cp -r app/build/reports $CIRCLE_ARTIFACTS
